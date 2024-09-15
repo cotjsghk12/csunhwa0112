@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <meta charser="utf-8">
+
+    <hb>CHAE<br>SUNHWA</hb>
+    <pb>PROFILE</pb>
+    <ob>PORTFOLIO</ob>
+    <cb>CONTACT</cb>
+
+    <h1>POSAN<br>HIGHSCHOOL</h1>
+    <h2>CHAE SUN HWA</h2>
+    <h3>PERSONAL PORTFOLIO</h3>
+    <p1>IB 4TH</p1>
+    <p2>1ST<br>7CLASS</p2>
+    <p3>PROTO<br>TYPE</p3>
+
+<style>
+    hb {
+        font-weight: bolder;
+        text-align: left;
+        position: absolute; top: 25.5; left: 10px;
+        font-size: 48px;
+    }
+
+    pb {
+        font-weight: border;
+        position: absolute; top: 64; left: 262;
+        font-size: 32;
+    }
+</style>
+</html>
